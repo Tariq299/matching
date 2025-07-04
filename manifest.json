@@ -1,0 +1,23 @@
+{
+  "name": "Learn With Fun",
+  "short_name": "LearnFun",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#ff6f61",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "An educational and fun app for kids to learn ABCs, numbers, and music through games.",
+  "lang": "en-US"
+}
